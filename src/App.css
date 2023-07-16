@@ -1,0 +1,49 @@
+:root {
+    --primary-colorr: white;
+    --secondary-colorr: black;
+    --shadow-colorr: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    --shadow-colorr1: inset 0px 5px 10px 0px rgba(116, 112, 112, 0.5);
+    
+    
+    --navShadow: 0px 2px 4px rgba(0, 0, 0, 0.15),
+        0px 4px 8px rgba(0, 0, 0, 0.15),
+        0px 8px 16px rgba(0, 0, 0, 0.15),
+        0px 16px 32px rgba(0, 0, 0, 0.15);
+        --border:15px solid #ffac937c;
+        
+}
+.moon{
+    width: 30px;
+}
+
+body{
+    background-color: black;
+}
+
+.darktheme {
+    --shadow-colorr: 0px 5px 10px 0px rgba(0, 255, 255, 0.7);
+    --shadow-colorr1: inset 0px 5px 10px 0px rgba(0, 255, 255, 0.7);
+    ;
+    --primary-colorr: black;
+    --secondary-colorr: white;
+    --navShadow: 0px 1px 2px 0px rgba(0, 255, 255, 0.35),
+        1px 2px 4px 0px rgba(0, 255, 255, 0.332),
+        2px 4px 8px 0px rgba(0, 255, 255, 0.279),
+        2px 4px 16px 0px rgba(0, 255, 255, 0.21);
+        --border:none;
+
+
+}
+.cc{
+    color: var(--secondary-colorr);
+    font-family: 'Sofia';
+}
+
+
+
+
+
+
+
+
+

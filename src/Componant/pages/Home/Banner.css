@@ -1,0 +1,72 @@
+.banner {
+    height: 500px;
+    width: 100%;
+    background-image: url("https://nov-karl-5.myshopify.com/cdn/shop/files/s-2_2048x.jpg?v=1621561996");
+ 
+    font-family: "Sofia", sans-serif;
+    background-size:cover ;  
+
+
+}
+
+.display {
+   
+  
+
+}
+.inner-banner{
+   font-family: 'Sofia';
+}
+
+.inner-banner {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+ 
+  
+}
+
+.inner-banner2{
+    background-color: black;
+    
+}
+
+.banner-outer{
+    background-color: var(--primary-colorr);
+}
+.home-cat
+{
+    background-color: var(--primary-colorr);
+    color: var(--secondary-colorr);
+    height: auto;
+  
+}
+.hh{
+    height: 400px;
+    background-color: aquamarine;
+}
+.home-cat img{
+    box-shadow: var(--shadow-colorr);
+    border-radius: 200px;
+    padding: 2px;
+}
+.home-cat  p{
+margin-top: 10px;
+}
+
+
+.footer{
+    background-color: #ffac93c4; 
+    font-family: 'Sofia';
+}
+.footer li{
+    list-style-type: none;
+}
+
+
+
+/******************************8888888888888888888888888888888888*/

@@ -1,0 +1,237 @@
+.slide {
+
+    padding: 20px;
+
+    border: var(--border);
+
+}
+
+.post-right {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-right p {
+    text-align: justify;
+
+    font-family: "Trirong", serif;
+}
+
+.post-right h3 {
+
+    font-family: "Sofia", sans-serif;
+}
+
+.btn1 {
+    background-color: #ffac93c4;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+
+.title {
+    background-color: #ffac936d;
+    text-align: center;
+    padding: 100px;
+    font-family: 'Sofia', 'Times New Roman', Times, serif;
+}
+
+.tips {
+    color: #524744;
+    font-family: Sofia;
+}
+
+.color {
+    font-family: Sofia;
+
+}
+
+.details {
+    font-family: Sofia;
+    text-align: justify;
+}
+
+.form {
+    border: 10px solid #ffac93c4;
+
+    padding: 70px;
+
+
+}
+
+input {
+    border: 1px solid rgb(177, 173, 173);
+
+    padding: 10px 45px;
+
+    border-radius: 16px;
+
+
+}
+
+form {
+    text-align: center;
+
+}
+
+.post {
+    box-shadow: var(--shadow-colorr);
+
+}
+
+.input {
+    display: flex;
+
+    justify-content: space-between;
+    margin-bottom: 30px;
+    font-family: 'Sofia';
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+
+.n {
+    background-color: var(--primary-colorr);
+    color: var(--secondary-colorr);
+    padding: 30px;
+}
+
+textarea {
+    border: 1px solid rgb(177, 173, 173);
+    font-family: 'Sofia';
+
+    border-radius: 16px;
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.comment-para {
+    font-family: 'Sofia';
+}
+
+.SUBMIT-BTN {
+    border: none;
+    background-color: #ffac93c4;
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 16px;
+    font-family: Sofia;
+}
+
+.category {
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 360px;
+
+    margin-right: 0px;
+
+
+
+}
+
+.category img {
+    width: 150px;
+    padding: 30px;
+    margin-left: -30px;
+
+}
+
+.details {
+    background-color: var(--primary-colorr);
+    color: var(--secondary-colorr);
+}
+
+.img-thum {
+    box-shadow: var(--shadow-colorr);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.img {
+
+    height: 120px;
+
+}
+
+.cate {
+    font-family: 'Sofia';
+    margin-top: 20px;
+
+}
+
+.comment {
+    text-align: center;
+    font-family: 'Sofia';
+    box-shadow: var(--shadow-colorr);
+    margin-top: 30px;
+}
+.comment2{
+    
+}
+
+
+.category p {
+    text-align: center;
+    font-family: 'Sofia';
+}
+
+.sofia {
+    font-family: Sofia;
+    text-align: center;
+}
+
+.n {
+    display: block;
+    margin: 0 auto;
+}
+
+.category-Home {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+
+}
+
+.img {
+
+    height: 100px;
+    margin: 10px;
+}
+
+
+.category-Home img {
+    width: 120px;
+
+}
+
+.category-Home p {
+    text-align: center;
+    font-family: 'Sofia';
+}
+
+
+.img2 {}
